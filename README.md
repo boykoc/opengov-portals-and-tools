@@ -10,11 +10,11 @@ We hope to use this webpage as an ongoing record of the current Open Government 
 
 You can use the [editor on GitHub](https://github.com/boykoc/opengov-portals-and-tools/edit/master/README.md) to make updates to the content for this site. Once you save the changes, submit a Pull Request (PR) to request the update.
 
+You can also [email](mailto:opengov@ontario.ca) us or create an [issue on Github](https://github.com/boykoc/opengov-portals-and-tools/issues) if you have changes you'd like to see but aren't familiaur with Pull Requests.
+
 Whenever a something new is committed to the Master branch of this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages of the site, based on the content in the Markdown files.
 
 This site is built with Github Pages, Jekyll and is styled in Markdown (for more details on Markdown see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)).
-
-You can also [email](mailto:opengov@ontario.ca) us or create an [issue on Github](https://github.com/boykoc/opengov-portals-and-tools/issues) if you have changes you'd like to see but aren't familiaur with Pull Requests.
 
 ## Charts
 
