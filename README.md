@@ -22,6 +22,7 @@ You can also [email](mailto:opengov@ontario.ca) us or create an [issue on Github
 
 Jurisdiction | Policy Name | Policy Tool | Policy Adopted | Portal/Catalogue Launched | Portal/Catalogue Platform | License
 ------------ | ----------- | ----------- | -------------- | ------------------------- | ------------------------- | -------
+Canada | | | | | | 
 
 ### Provincial
 
