@@ -33,7 +33,8 @@ Jurisdiction | Policy Name | Policy Tool | Policy Adopted | Portal/Catalogue Lau
 Alberta | [Open Information and Open Data Policy](https://open.alberta.ca/policy) | Deputy minister-approved policy | 2014 | 2013 | CKAN | Open Government Licence - Alberta
 British Columbia | [Open Information and Open Data Policy](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/information-management-technology/information-privacy/resources/policies-guidelines/open-information-open-data-policy.pdf) | Deputy minister-approved policy | 2011 | 2011 | CKAN | Open Government License - British Columbia
 New Brunswick | [Open Data Policy](https://www2.gnb.ca/content/dam/gnb/Departments/gs-sg/pdf/OpenDataPolicy.pdf) | Deputy minister-approved policy | 2016 | 2009 | List-based Catalogue under GeoNB | Open Government License
-Ontario | [Open Data Directive](https://www.ontario.ca/page/ontarios-open-data-directive) | Management Board of Cabinet Directive | 2016 | 2012 | Ontario.ca platform | Open Government Licence - Ontario
+Ontario | [Open Data Directive](https://www.ontario.ca/page/ontarios-open-data-directive) | Management Board of Cabinet Directive | 2016 | 2012 | [External Data Portal](https://www.ontario.ca/search/data-catalogue) using Ontario.ca platform (Drupal and AngularJS) | Open Government Licence - Ontario
+Ontario | [Open Data Directive](https://www.ontario.ca/page/ontarios-open-data-directive) | Management Board of Cabinet Directive | 2016 | 2018 | Internal Data Portal using CKAN 2.8.1 | Open Government Licence - Ontario
 
 ### Municipal
 
