@@ -1,4 +1,4 @@
-# Open Government Portals and Polcy Tools across Canada
+# Open Government Portals and Policy Tools Across Canada
 
 This is an adaptation of a chart found on page 23 of the OpenNorth _[What Could Open Data Programs Gain from Aligning with International Best Practices?](http://public.citizenbudget.com/uploads/custom/on.ca/ODCinCanada.pdf)_ report from 2016.
 
