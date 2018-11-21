@@ -18,6 +18,8 @@ You can also [email](mailto:opengov@ontario.ca) us or create an [issue on Github
 
 ## Charts
 
+__These charts scroll left to right to view all columns. New columns may be added.__
+
 ### Federal
 
 Jurisdiction | Policy Name | Policy Tool | Policy Adopted | Portal/Catalogue Launched | Portal/Catalogue Platform | License
