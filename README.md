@@ -36,7 +36,7 @@ __These charts scroll left to right to view all columns. New columns may be adde
     </tr>
   </thead>
   <tbody>
-    {% assign tools = site.data.tools | where: "Level of Government", "Federal" %}
+    {% assign tools = site.data.tools.data | where: "Level of Government", "Federal" %}
     {% for tool in tools %}
       <tr>
         <td>{{ tool.Jurisdiction }}</td>
@@ -68,7 +68,7 @@ __These charts scroll left to right to view all columns. New columns may be adde
     </tr>
   </thead>
   <tbody>
-    {% assign tools = site.data.tools | where: "Level of Government", "Provincial" %}
+    {% assign tools = site.data.tools.data | where: "Level of Government", "Provincial" %}
     {% for tool in tools %}
       <tr>
         <td>{{ tool.Jurisdiction }}</td>
@@ -100,7 +100,7 @@ __These charts scroll left to right to view all columns. New columns may be adde
     </tr>
   </thead>
   <tbody>
-    {% assign tools = site.data.tools | where: "Level of Government", "Municipal" %}
+    {% assign tools = site.data.tools.data | where: "Level of Government", "Municipal" %}
     {% for tool in tools %}
       <tr>
         <td>{{ tool.Jurisdiction }}</td>
@@ -116,3 +116,12 @@ __These charts scroll left to right to view all columns. New columns may be adde
   </tbody>
 </table>
 
+### Data Dictionary
+
+{% assign dictionary = site.data.tools.data-dictionary %}
+<dl>
+  {% for item in dictionary %}
+    <dt>{{ item[0] }}</dt>
+    <dd>{{ item[1] }}</dd>
+  {% endfor %}
+</dl>
