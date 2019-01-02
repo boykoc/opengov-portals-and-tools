@@ -1,0 +1,23 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* These were lost after customizing default.html */
+#skip-to-content {
+    height: 1px;
+    width: 1px;
+    position: absolute;
+    overflow: hidden;
+    top: -10px
+}
+
+#skip-to-content:focus {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    height: auto;
+    width: auto;
+    background: #e19447;
+    outline: thick solid #e19447
+}
