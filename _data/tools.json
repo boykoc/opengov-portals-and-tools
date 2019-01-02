@@ -1,0 +1,200 @@
+[
+ {
+   "Jurisdiction": "Canada",
+   "Level of Government": "Federal",
+   "Policy Name": "",
+   "Policy Tool": "",
+   "Policy Adopted": "",
+   "Portal/Catalogue Launched": "",
+   "Portal/Catalogue Platform": "",
+   "Content Type": "",
+   "License": ""
+ },
+ {
+   "Jurisdiction": "Alberta",
+   "Level of Government": "Provincial",
+   "Policy Name": "Open Information and Open Data Policy",
+   "Policy Tool": "Deputy minister-approved policy",
+   "Policy Adopted": 2014,
+   "Portal/Catalogue Launched": 2013,
+   "Portal/Catalogue Platform": "CKAN",
+   "Content Type": "",
+   "License": "Open Government Licence - Alberta"
+ },
+ {
+   "Jurisdiction": "British Columbia",
+   "Level of Government": "Provincial",
+   "Policy Name": "Open Information and Open Data Policy",
+   "Policy Tool": "Deputy minister-approved policy",
+   "Policy Adopted": 2011,
+   "Portal/Catalogue Launched": 2011,
+   "Portal/Catalogue Platform": "CKAN",
+   "Content Type": "",
+   "License": "Open Government License - British Columbia"
+ },
+ {
+   "Jurisdiction": "New Brunswick",
+   "Level of Government": "Provincial",
+   "Policy Name": "Open Data Policy",
+   "Policy Tool": "Deputy minister-approved policy",
+   "Policy Adopted": 2016,
+   "Portal/Catalogue Launched": 2009,
+   "Portal/Catalogue Platform": "List-based Catalogue under GeoNB",
+   "Content Type": "",
+   "License": "Open Government License"
+ },
+ {
+   "Jurisdiction": "Ontario",
+   "Level of Government": "Provincial",
+   "Policy Name": "Open Data Directive",
+   "Policy Tool": "Management Board of Cabinet Directive",
+   "Policy Adopted": 2016,
+   "Portal/Catalogue Launched": 2012,
+   "Portal/Catalogue Platform": "External Data Portal using Ontario.ca platform (Drupal and AngularJS)",
+   "Content Type": "Data",
+   "License": "Open Government Licence - Ontario"
+ },
+ {
+   "Jurisdiction": "Ontario",
+   "Level of Government": "Provincial",
+   "Policy Name": "Open Data Directive",
+   "Policy Tool": "Management Board of Cabinet Directive",
+   "Policy Adopted": 2016,
+   "Portal/Catalogue Launched": 2018,
+   "Portal/Catalogue Platform": "Internal Data Portal using CKAN 2.8.1",
+   "Content Type": "Data, Info, GeoSpatial metadata",
+   "License": "Open Government Licence - Ontario"
+ },
+ {
+   "Jurisdiction": "Ontario",
+   "Level of Government": "Provincial",
+   "Policy Name": "",
+   "Policy Tool": "",
+   "Policy Adopted": null,
+   "Portal/Catalogue Launched": null,
+   "Portal/Catalogue Platform": "LIO (Land Integration Ontario)",
+   "Content Type": "GeoSpatial",
+   "License": ""
+ },
+ {
+   "Jurisdiction": "Edmonton",
+   "Level of Government": "Municipal",
+   "Policy Name": "Open City Policy",
+   "Policy Tool": "Council-approved policy",
+   "Policy Adopted": "2014",
+   "Portal/Catalogue Launched": 2010,
+   "Portal/Catalogue Platform": "Socrata",
+   "Content Type": "",
+   "License": "City of Edmonton Open Data Terms of Use"
+ },
+ {
+   "Jurisdiction": "Grande Prairie",
+   "Level of Government": "Municipal",
+   "Policy Name": "Open Data Policy",
+   "Policy Tool": "Council-approved policy",
+   "Policy Adopted": "2014",
+   "Portal/Catalogue Launched": 2014,
+   "Portal/Catalogue Platform": "Socrata",
+   "Content Type": "",
+   "License": "Open Data License - City of Grande Prairie v.1"
+ },
+ {
+   "Jurisdiction": "Greater Sudbury",
+   "Level of Government": "Municipal",
+   "Policy Name": "Open Data Policy",
+   "Policy Tool": "Council-approved Policy",
+   "Policy Adopted": "2015",
+   "Portal/Catalogue Launched": 2015,
+   "Portal/Catalogue Platform": "ArcGIS Open Data",
+   "Content Type": "",
+   "License": "The City of Greater Sudbury Open Data License v.1"
+ },
+ {
+   "Jurisdiction": "Guelph",
+   "Level of Government": "Municipal",
+   "Policy Name": "Open Data Action Plan",
+   "Policy Tool": "Council-approved Action Plan",
+   "Policy Adopted": "2014",
+   "Portal/Catalogue Launched": 2016,
+   "Portal/Catalogue Platform": "CKAN",
+   "Content Type": "",
+   "License": "Open Government License - City of Guelph v.1"
+ },
+ {
+   "Jurisdiction": "Kitchener",
+   "Level of Government": "Municipal",
+   "Policy Name": "Corporate Accountability and Transparency",
+   "Policy Tool": "Council-approved policy that contains a section on open data",
+   "Policy Adopted": "2013",
+   "Portal/Catalogue Launched": 2014,
+   "Portal/Catalogue Platform": "ArcGIS Open Data Portal",
+   "Content Type": "",
+   "License": "Open Government License - The Corporation of the City of Kitchener v.1"
+ },
+ {
+   "Jurisdiction": "Montréal",
+   "Level of Government": "Municipal",
+   "Policy Name": "Open Data Policy",
+   "Policy Tool": "Council-approved policy",
+   "Policy Adopted": "2011; 2015",
+   "Portal/Catalogue Launched": 2011,
+   "Portal/Catalogue Platform": "CKAN",
+   "Content Type": "",
+   "License": "Creative Commons Attribution 4.0 International Public License"
+ },
+ {
+   "Jurisdiction": "Niagara Region",
+   "Level of Government": "Municipal",
+   "Policy Name": "",
+   "Policy Tool": "",
+   "Policy Adopted": "",
+   "Portal/Catalogue Launched": 2012,
+   "Portal/Catalogue Platform": "http://niagaraopendata.ca built using CKAN",
+   "Content Type": "",
+   "License": "Open Government License"
+ },
+ {
+   "Jurisdiction": "Ottawa",
+   "Level of Government": "Municipal",
+   "Policy Name": "Accountability and Transparency Policy ; Routine Disclosure and Active Dissemination Policy",
+   "Policy Tool": "Both are council-approved policies that contain a section referencing or addressing open data",
+   "Policy Adopted": "2007; 2013",
+   "Portal/Catalogue Launched": 2010,
+   "Portal/Catalogue Platform": "CKAN",
+   "Content Type": "",
+   "License": "Open Government License - City of Ottawa v.2"
+ },
+ {
+   "Jurisdiction": "Regina",
+   "Level of Government": "Municipal",
+   "Policy Name": "Open Government Policy",
+   "Policy Tool": "Chief Legislative Officer and City Clerk-approved Policy",
+   "Policy Adopted": "2016",
+   "Portal/Catalogue Launched": 2012,
+   "Portal/Catalogue Platform": "CKAN",
+   "Content Type": "",
+   "License": "Open Government License - City of Regina v.2"
+ },
+ {
+   "Jurisdiction": "Surrey",
+   "Level of Government": "Municipal",
+   "Policy Name": "Corporate Report",
+   "Policy Tool": "Corporate Report that includes an open data policy document",
+   "Policy Adopted": "2014",
+   "Portal/Catalogue Launched": 2014,
+   "Portal/Catalogue Platform": "CKAN",
+   "Content Type": "",
+   "License": "Open Government License - City of Surrey v.2"
+ },
+ {
+   "Jurisdiction": "Vancouver",
+   "Level of Government": "Municipal",
+   "Policy Name": "Open Data, Open Standards and Open Source Motion",
+   "Policy Tool": "Council Motion of Notice",
+   "Policy Adopted": "2009",
+   "Portal/Catalogue Launched": 2009,
+   "Portal/Catalogue Platform": "List-based catalogue",
+   "Content Type": "",
+   "License": "Open Government License - Vancouver v.1.0, Archived Open Data License"
+ }
+]
