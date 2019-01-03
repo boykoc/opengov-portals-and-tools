@@ -6,6 +6,16 @@ This chart summarizes open government portals and policy tools in Canada at a Fe
 
 We hope to use this webpage as an ongoing record of the current Open Government portal and policy tool landscape across Canada and would love as many updates and additions as possible.
 
+## Contents
+
+* [Contributing](#contributing)
+* [Charts](#charts)
+  * [Federal](#federal)
+  * [Provincial](#provincial)
+  * [Municipal](#municipal)
+* [Data Dictionary](#data-dictionary)
+* [Raw Data]({{ site.github.repository_url }}/blob/master/_data/tools.json)
+
 ## Contributing
 
 You can use the [editor on GitHub](https://github.com/boykoc/opengov-portals-and-tools/edit/master/README.md) to make updates to the content for this site. Once you save the changes, submit a Pull Request (PR) to request the update.
