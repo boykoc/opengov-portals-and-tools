@@ -10,7 +10,7 @@
     "Content Type": "(Optional) The type of content that is available on the portal / catalogue.Current options include Data, Information, GeoSpatial",
     "License": "License name and link to license being used by Jurisdiction for their Open Data"
   },
-  data: [
+  "data": [
     {
       "Jurisdiction": "Canada",
       "Level of Government": "Federal",
