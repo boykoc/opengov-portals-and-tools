@@ -1,3 +1,40 @@
+<div>
+  {% assign systems = site.data.tools.data | map: "Portal/Catalogue Platform" %}
+  {% assign ckan_counter = 0 %}
+  {% assign socrata_counter = 0 %}
+  {% assign other_counter = 0 %}
+
+  {% comment %}
+    Couldn't re-assign system so created to system_upcase variable instead.
+    Also needed to create custom counters to count number of instances of each catalogue type.
+  {% endcomment %}
+  {% for system in systems %}
+    {% assign system_upcase = (system | upcase) %}
+    {% if system_upcase contains 'CKAN' %}
+      {% assign ckan_counter = ckan_counter | plus: 1 %}
+    {% elsif system_upcase contains "SOCRATA" %}
+      {% assign socrata_counter = socrata_counter | plus: 1 %}
+    {% else %}
+      {% assign other_counter = other_counter | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+
+  <div class="btn stat">
+    Catalogues using CKAN
+    <span>{{ ckan_counter }} / {{ site.data.tools.data | size }}</span>
+  </div>
+
+  <div class="btn stat">
+    Catalogues using Socrata
+    <span>{{ socrata_counter }} / {{ site.data.tools.data | size }}</span>
+  </div>
+
+  <div class="btn stat">
+    Catalogues using Other
+    <span>{{ other_counter }} / {{ site.data.tools.data | size }}</span>
+  </div>
+</div>
+
 # Open Government Portals and Policy Tools Across Canada
 
 This is an adaptation of a chart found on page 23 of the OpenNorth _[What Could Open Data Programs Gain from Aligning with International Best Practices?](http://public.citizenbudget.com/uploads/custom/on.ca/ODCinCanada.pdf)_ report from 2016.
