@@ -74,13 +74,13 @@ __These charts scroll left to right to view all columns. New columns may be adde
   <thead>
     <tr>
       <th>Jurisdiction</th>
-      <th>Policy Name</th>
-      <th>Policy Tool</th>
-      <th>Policy Adopted</th>
       <th>Portal/Catalogue Launched</th>
       <th>Portal/Catalogue Platform</th>
       <th>Content Type</th>
       <th>License</th>
+      <th>Policy Name</th>
+      <th>Policy Tool</th>
+      <th>Policy Adopted</th>
     </tr>
   </thead>
   <tbody>
@@ -88,13 +88,13 @@ __These charts scroll left to right to view all columns. New columns may be adde
     {% for tool in tools %}
       <tr>
         <td>{{ tool.Jurisdiction }}</td>
-        <td>{{ tool["Policy Name"] }}</td>
-        <td>{{ tool["Policy Tool"] }}</td>
-        <td>{{ tool["Policy Adopted"] }}</td>
         <td>{{ tool["Portal/Catalogue Launched"] }}</td>
         <td>{{ tool["Portal/Catalogue Platform"] }}</td>
         <td>{{ tool["Content Type"] }}</td>
         <td>{{ tool["License"] }}</td>
+        <td>{{ tool["Policy Name"] }}</td>
+        <td>{{ tool["Policy Tool"] }}</td>
+        <td>{{ tool["Policy Adopted"] }}</td>
       </tr>
     {% endfor %}
   </tbody>
@@ -106,13 +106,13 @@ __These charts scroll left to right to view all columns. New columns may be adde
   <thead>
     <tr>
       <th>Jurisdiction</th>
-      <th>Policy Name</th>
-      <th>Policy Tool</th>
-      <th>Policy Adopted</th>
       <th>Portal/Catalogue Launched</th>
       <th>Portal/Catalogue Platform</th>
       <th>Content Type</th>
       <th>License</th>
+      <th>Policy Name</th>
+      <th>Policy Tool</th>
+      <th>Policy Adopted</th>
     </tr>
   </thead>
   <tbody>
@@ -120,13 +120,13 @@ __These charts scroll left to right to view all columns. New columns may be adde
     {% for tool in tools %}
       <tr>
         <td>{{ tool.Jurisdiction }}</td>
-        <td>{{ tool["Policy Name"] }}</td>
-        <td>{{ tool["Policy Tool"] }}</td>
-        <td>{{ tool["Policy Adopted"] }}</td>
         <td>{{ tool["Portal/Catalogue Launched"] }}</td>
         <td>{{ tool["Portal/Catalogue Platform"] }}</td>
         <td>{{ tool["Content Type"] }}</td>
         <td>{{ tool["License"] }}</td>
+        <td>{{ tool["Policy Name"] }}</td>
+        <td>{{ tool["Policy Tool"] }}</td>
+        <td>{{ tool["Policy Adopted"] }}</td>
       </tr>
     {% endfor %}
   </tbody>
@@ -138,13 +138,13 @@ __These charts scroll left to right to view all columns. New columns may be adde
   <thead>
     <tr>
       <th>Jurisdiction</th>
-      <th>Policy Name</th>
-      <th>Policy Tool</th>
-      <th>Policy Adopted</th>
       <th>Portal/Catalogue Launched</th>
       <th>Portal/Catalogue Platform</th>
       <th>Content Type</th>
       <th>License</th>
+      <th>Policy Name</th>
+      <th>Policy Tool</th>
+      <th>Policy Adopted</th>
     </tr>
   </thead>
   <tbody>
@@ -152,13 +152,13 @@ __These charts scroll left to right to view all columns. New columns may be adde
     {% for tool in tools %}
       <tr>
         <td>{{ tool.Jurisdiction }}</td>
-        <td>{{ tool["Policy Name"] }}</td>
-        <td>{{ tool["Policy Tool"] }}</td>
-        <td>{{ tool["Policy Adopted"] }}</td>
         <td>{{ tool["Portal/Catalogue Launched"] }}</td>
         <td>{{ tool["Portal/Catalogue Platform"] }}</td>
         <td>{{ tool["Content Type"] }}</td>
         <td>{{ tool["License"] }}</td>
+        <td>{{ tool["Policy Name"] }}</td>
+        <td>{{ tool["Policy Tool"] }}</td>
+        <td>{{ tool["Policy Adopted"] }}</td>
       </tr>
     {% endfor %}
   </tbody>

@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: Open Government Portals and Tools
 google_analytics: UA-51151216-6
+baseurl: /opengov-portals-and-tools
