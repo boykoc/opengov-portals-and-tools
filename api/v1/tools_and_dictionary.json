@@ -1,0 +1,16 @@
+---
+---
+
+{% comment %}
+  This builds the basic API for the site.
+  The data is stored in_data/tools.json and could be
+  accessed there by making a request to
+  https://raw.githubusercontent.com/boykoc/opengov-portals-and-tools/master/_data/tools.json.
+  But this relies more on github and I thought it
+  would be fun to try exporting the datafile(s)
+  through the website instead.
+
+  Refer to api/index.md
+{% endcomment %}
+
+{{ site.data.tools | jsonify }}

@@ -9,7 +9,7 @@
     Also needed to create custom counters to count number of instances of each catalogue type.
   {% endcomment %}
   {% for system in systems %}
-    {% assign system_upcase = (system | upcase) %}
+    {% assign system_upcase = system | upcase %}
     {% if system_upcase contains 'CKAN' %}
       {% assign ckan_counter = ckan_counter | plus: 1 %}
     {% elsif system_upcase contains "SOCRATA" %}
@@ -52,6 +52,7 @@ We hope to use this webpage as an ongoing record of the current Open Government 
   * [Municipal](#municipal)
 * [Data Dictionary](#data-dictionary)
 * [Raw Data]({{ site.github.repository_url }}/blob/master/_data/tools.json)
+* [API](#api)
 
 ## Contributing
 
@@ -172,3 +173,7 @@ __These charts scroll left to right to view all columns. New columns may be adde
     <dd>{{ item[1] }}</dd>
   {% endfor %}
 </dl>
+
+### API
+
+Feel free to use the API. Beware it's pretty basic, but so is the data. Read the [API docs](/api/index.md) for more details on use.
